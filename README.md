@@ -1,5 +1,5 @@
 # flyPlateBuffs-WotLK
-flyPlateBuffs is a legacy addon created by FlyNeko in Legion.  
+flyPlateBuffs is a legacy addon created by [FlyNeko](https://www.curseforge.com/wow/addons/flyplatebuffs) in Legion.  
 This backport for WoW 3.3.5a (WotLK) includes slight customizations and minor additions.
 
 ## Features
