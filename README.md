@@ -1,6 +1,6 @@
 # flyPlateBuffs-WotLK
 flyPlateBuffs is a legacy addon created by FlyNeko in Legion.  
-This WotLK 3.3.5a backport includes slight customizations and minor additions.
+This backport for WoW 3.3.5a (WotLK) includes slight customizations and minor additions.
 
 ## Features
 - Displays buffs/debuffs above nameplates.  
