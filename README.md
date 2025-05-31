@@ -19,7 +19,7 @@ Support for this API and Events is provided through the custom library **Awesome
 This backport can optionally use [this fork](https://github.com/KhalGH/awesome_wotlk) that includes additional implementations used by the addon.
 
 ## Installation
-1. Download the addon and the [AwesomeWotlk library](https://github.com/KhalGH/awesome_wotlk/releases/download/0.1.4-f1/AwesomeWotlk.7z).  
+1. Download the [addon](https://github.com/KhalGH/flyPlateBuffs-WotLK/releases/download/flyPlateBuffs-WotLK/flyPlateBuffs-WotLK.7z) and the [AwesomeWotlk library](https://github.com/KhalGH/awesome_wotlk/releases/download/0.1.4-f1/AwesomeWotlk.7z).  
 2. Extract the `flyPlateBuffs` folder into `World of Warcraft/Interface/AddOns/`.  
 3. Place `AwesomeWotlkLib.dll` and `AwesomeWotlkPatch.exe` inside your `World of Warcraft/` directory, then run the patcher.  
 4. Restart the game and enable the addon.
