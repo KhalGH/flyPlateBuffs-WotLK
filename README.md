@@ -9,8 +9,8 @@ This backport for WoW 3.3.5a (WotLK) includes slight customizations and minor ad
 - Offers many display options to customize the addon to your preferences.
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/111320187/449483001-b479c90f-6d01-4f59-9497-cd7790360f5f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg2NzY1NDcsIm5iZiI6MTc0ODY3NjI0NywicGF0aCI6Ii8xMTEzMjAxODcvNDQ5NDgzMDAxLWI0NzljOTBmLTZkMDEtNGY1OS05NDk3LWNkNzc5MDM2MGY1Zi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUzMVQwNzI0MDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZWRkMjRlNGRjNTUxMjM4YTVkMTMwNWY1YmUyZDc2ZWJmZmI5YmY4MTI5NTZhODE2NmQzM2QyZTUxYTA5ZDhiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.CyYUSM_aOCCvjAjm2mTTsNmcsEghcu4ObRJsnr2OE28" 
-       alt="flyPlateBuffs Img" width="95%">
+  <img src="https://raw.githubusercontent.com/KhalGH/flyPlateBuffs-WotLK/refs/heads/assets/assets/flyPlateBuffs_img.jpg" 
+       alt="flyPlateBuffs_Img" width="95%">
 </p>
 
 ## Dependency
