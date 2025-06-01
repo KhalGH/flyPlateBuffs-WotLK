@@ -1,6 +1,6 @@
 # flyPlateBuffs-WotLK
-flyPlateBuffs is a legacy addon created by [FlyNeko](https://www.curseforge.com/wow/addons/flyplatebuffs) in Legion.  
-This backport for WoW 3.3.5a (WotLK) includes slight customizations and minor additions.
+flyPlateBuffs is a legacy addon created by [FlyNeko](https://www.curseforge.com/wow/addons/flyplatebuffs) during Legion.  
+This is a backport for WoW 3.3.5a (WotLK) with slight customizations and minor additions.
 
 ## Features
 - Displays buffs/debuffs above nameplates.  
@@ -19,12 +19,12 @@ Support for this API and Events is provided through the custom library **Awesome
 This backport can optionally use [this fork](https://github.com/KhalGH/awesome_wotlk) that includes additional implementations used by the addon.
 
 ## Installation
-1. Download the [addon](https://github.com/KhalGH/flyPlateBuffs-WotLK/releases/download/flyPlateBuffs-WotLK/flyPlateBuffs-WotLK.7z) and the [AwesomeWotlk library](https://github.com/KhalGH/awesome_wotlk/releases/download/0.1.4-f1/AwesomeWotlk.7z).  
+1. Download the [addon](https://github.com/KhalGH/flyPlateBuffs-WotLK/releases/download/v1.0/flyPlateBuffs-WotLK-v1.0.zip) and the [AwesomeWotlk](https://github.com/KhalGH/flyPlateBuffs-WotLK/releases/download/v1.0/AwesomeWotlk.7z) library.  
 2. Extract the `flyPlateBuffs` folder into `World of Warcraft/Interface/AddOns/`.  
-3. Place `AwesomeWotlkLib.dll` and `AwesomeWotlkPatch.exe` inside your `World of Warcraft/` directory, then run the patcher.  
+3. Extract `AwesomeWotlk.7z` and follow the `Instructions.txt` file to implement it.  
 4. Restart the game and enable the addon.
 
 ## Disclaimer
-Private servers may have specific rules regarding the use of external libraries like **AwesomeWotlk**.  
+Private servers may have specific rules regarding the use of custom libraries like **AwesomeWotlk**.  
 Please verify your server’s policy to ensure the library is allowed before using it.
 
