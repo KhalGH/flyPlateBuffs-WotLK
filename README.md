@@ -16,7 +16,7 @@ This is a backport for WoW 3.3.5a (WotLK) with slight customizations and minor a
 ## Dependency
 This addon requires the **C_NamePlate** `API` and **NAME_PLATE_UNIT** `Events` from Retail, which are not available in WoW 3.3.5a by default.  
 Support for this API and Events is provided through the custom library **AwesomeWotlk**, created by [FrostAtom](https://github.com/FrostAtom/awesome_wotlk).  
-This backport can optionally use [this fork](https://github.com/KhalGH/awesome_wotlk) that includes additional implementations used by the addon.
+This addon can be used with [this fork](https://github.com/KhalGH/awesome_wotlk) of **AwesomeWotlk** that includes additional implementations.
 
 ## Installation
 1. Download the [addon](https://github.com/KhalGH/flyPlateBuffs-WotLK/releases/download/v1.0/flyPlateBuffs-WotLK-v1.0.zip) and the [AwesomeWotlk](https://github.com/KhalGH/flyPlateBuffs-WotLK/releases/download/v1.0/AwesomeWotlk.7z) library.  
