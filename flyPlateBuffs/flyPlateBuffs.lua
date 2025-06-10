@@ -63,7 +63,7 @@ local DefaultSettings = {
 		yInterval = 2,
 
 		xOffset = 0,
-		yOffset = 5,
+		yOffset = 2,
 
 		buffPerLine = 4,
 		numLines = 3,
