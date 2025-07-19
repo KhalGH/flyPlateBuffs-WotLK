@@ -29,3 +29,8 @@ This addon can be used with [this fork](https://github.com/KhalGH/awesome_wotlk)
 Private servers may have specific rules regarding the use of custom libraries like **AwesomeWotlk**.  
 Please verify your server’s policy to ensure the library is allowed before using it.
 
+## Information  
+- **Addon Version:** 1.1  
+- **Game Version:** 3.3.5a (WotLK)  
+- **Original Author:** FlyNeko
+- **Modified by:** Khal
