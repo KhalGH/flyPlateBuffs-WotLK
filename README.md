@@ -26,7 +26,7 @@ This addon can be used with [this fork](https://github.com/KhalGH/awesome_wotlk)
 4. Restart the game and enable the addon.
 
 ## Disclaimer
-Private servers may have specific rules regarding the use of custom libraries like **AwesomeWotlk**.  
+Private servers may have specific rules regarding the use of client modifications like the **AwesomeWotlk** library.  
 Please verify your server’s policy to ensure the library is allowed before using it.
 
 ## Information  
