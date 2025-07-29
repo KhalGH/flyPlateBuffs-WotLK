@@ -12,7 +12,7 @@ local	DISABLE = DISABLE
 local chatColor = fPB.chatColor
 local linkColor = fPB.linkColor
 
-local C_NamePlate_GetNamePlateForGUID = C_NamePlate and C_NamePlate.GetNamePlateForGUID -- by Khal
+local C_NamePlate_GetNamePlateForGUID = C_NamePlate.GetNamePlateForGUID or C_NamePlate.GetNamePlateByGUID -- by Khal
 
 function fPB.OptionsOnEnable()
 	db = fPB.db.profile
