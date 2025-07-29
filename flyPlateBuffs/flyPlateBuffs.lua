@@ -11,7 +11,7 @@ local	C_NamePlate_GetNamePlateForUnit, C_NamePlate_GetNamePlates, CreateFrame, U
 		C_NamePlate.GetNamePlateForUnit, C_NamePlate.GetNamePlates, CreateFrame, UnitDebuff, UnitBuff, UnitName, UnitIsUnit, UnitIsPlayer, UnitPlayerControlled, UnitIsEnemy, UnitIsFriend, GetSpellInfo, table.sort, table.insert, table.remove, strmatch, format, wipe, pairs, GetTime, math.floor, math.min, math.max, tostring
 
 local C_NamePlate_GetDistanceForNamePlate = C_NamePlate.GetDistanceForNamePlate -- by Khal
-local C_NamePlate_GetNamePlateForGUID = C_NamePlate.GetNamePlateForGUID -- by Khal
+local C_NamePlate_GetNamePlateForGUID = C_NamePlate.GetNamePlateForGUID or C_NamePlate.GetNamePlateByGUID -- by Khal
 local textVisibilityDistance = 80 -- by Khal
 
 local defaultSpells1, defaultSpells2, defaultSpells3, defaultSpells4, CheckIDSpells = fPB.defaultSpells1, fPB.defaultSpells2, fPB.defaultSpells3, fPB.defaultSpells4, fPB.CheckIDSpells
