@@ -625,8 +625,7 @@ local function UpdateBuffIconOptions(self)
 	self.border:SetAllPoints(self)
 	if db.borderStyle == 1 then
 		self.border:SetTexture("Interface\\Addons\\flyPlateBuffs\\texture\\border.tga")
-		self.border:SetTexCoord(0.08,0.08, 0.08,0.92, 0.92,0.08, 0.92,0.92) -- CHECK THIS KHAL
-		--self.border:SetTexCoord(0,0,0,1,1,0,1,1)
+		self.border:SetTexCoord(0,0,0,1,1,0,1,1)
 	elseif db.borderStyle == 2 then
 		self.border:SetTexture("Interface\\Buttons\\UI-Debuff-Overlays")
 		self.border:SetTexCoord(0.296875,0.5703125,0,0.515625)		-- if "Interface\\Buttons\\UI-Debuff-Overlays"
@@ -1245,3 +1244,4 @@ fPB.Events:SetScript("OnEvent", function(self, event, ...)
 		end
 	end
 end)
+
